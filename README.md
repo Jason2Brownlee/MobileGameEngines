@@ -48,6 +48,13 @@ Jason Brownlee, __Mobile Game Engines: Interviews with Mobile Game Developers__,
 * [mobi](books/mobile-game-engines-interviews-with-mobile-game-developers.mobi)
 * [pdf](books/mobile-game-engines-interviews-with-mobile-game-developers.pdf)
 
+**Links:**
+
+* [Goodreads](https://www.goodreads.com/book/show/19187970-mobile-game-engines)
+* [Amazon](https://www.amazon.com/dp/B008KIS2FY)
+* [Smashwords](https://web.archive.org/web/20140209140714/https://www.smashwords.com/books/view/177903) (archived)
+*  [Lulu](https://web.archive.org/web/20141221140723/http://www.lulu.com/shop/jason-brownlee/mobile-game-engines-interviews-with-mobile-game-developers/paperback/product-20226444.html) (archived)
+* [MobileGameEngines](https://web.archive.org/web/20140207235924/http://mobilegameengines.com/interviews_with_mobile_game_developers) (archived)
 
 ### Interviews With Game Engine Developers
 
@@ -64,9 +71,15 @@ Jason Brownlee, __Mobile Game Engines: Interviews with Mobile Game Engine Develo
 * [epub](books/mobile-game-engines-interviews-with-mobile-game-engine-developers.epub)
 * [mobi](books/mobile-game-engines-interviews-with-mobile-game-engine-developers.mobi)
 
+**Links:**
+
+* [Goodreads](https://www.goodreads.com/book/show/21084991-mobile-game-engines)
+* [Amazon](https://www.amazon.com/dp/B00AW8XUKC)
+* [Smashwords](https://web.archive.org/web/20140209124810/https://www.smashwords.com/books/view/270950) (archived)
+* [Lulu](https://web.archive.org/web/20140122032712/http://www.lulu.com/shop/jason-brownlee/mobile-game-engines-interviews-with-mobile-game-engine-developers/paperback/product-20609454.html) (archived)
+* [MobileGameEngines](https://web.archive.org/web/20140129170118/http://mobilegameengines.com/interviews_with_mobile_game_engine_developers) (archived)
+
 ## Sources
 
 * [MobileGameEngines.com](https://web.archive.org/web/20140203020740/http://mobilegameengines.com/) (archived)
-* [Mobile Game Engines: Interviews with Mobile Game Engine Developers](https://www.goodreads.com/book/show/19187970-mobile-game-engines) (goodreads)
-* [Mobile Game Engines: Interviews with Mobile Game Developers](https://www.goodreads.com/book/show/21084991-mobile-game-engines) (goodreads)
 
