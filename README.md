@@ -32,7 +32,7 @@ Not all formats of all books were archived.
 
 ### Interviews With Game Developers
 
-![Mobile Game Engines: Interviews with Mobile Game Developers](covers/green.png)
+![Mobile Game Engines: Interviews with Mobile Game Developers](covers/green.jpg)
 
 Jason Brownlee, __Mobile Game Engines: Interviews with Mobile Game Developers__, Self Published, July 2012.
 
@@ -49,7 +49,7 @@ Jason Brownlee, __Mobile Game Engines: Interviews with Mobile Game Developers__,
 
 ### Interviews With Game Engine Developers
 
-![Mobile Game Engines: Interviews with Mobile Game Engine Developers](covers/red.png)
+![Mobile Game Engines: Interviews with Mobile Game Engine Developers](covers/red.jpg)
 
 Jason Brownlee, __Mobile Game Engines: Interviews with Mobile Game Engine Developers__, Self Published, January 2013.
 
