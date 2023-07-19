@@ -10,6 +10,8 @@ It was turned into a website that listed all game engines hosed at `MobileGameEn
 
 Developers of game engines and developers of games using the game engines were interviewed, resulting in the publication of two books.
 
+The website and books were retired circa 2015.
+
 ## Website
 
 The website was hosted at:
@@ -64,7 +66,7 @@ Jason Brownlee, __Mobile Game Engines: Interviews with Mobile Game Engine Develo
 
 ## Sources
 
-* [mobilegameengines.com](https://web.archive.org/web/20140203020740/http://mobilegameengines.com/) (archived)
+* [MobileGameEngines.com](https://web.archive.org/web/20140203020740/http://mobilegameengines.com/) (archived)
 * [Mobile Game Engines: Interviews with Mobile Game Engine Developers](https://www.goodreads.com/book/show/19187970-mobile-game-engines) (goodreads)
 * [Mobile Game Engines: Interviews with Mobile Game Developers](https://www.goodreads.com/book/show/21084991-mobile-game-engines) (goodreads)
 
